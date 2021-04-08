@@ -1,5 +1,5 @@
 
 
 <h1>
-  <strong>김기현의 ortfolio</strong>
+  <strong>김기현의 Portfolio</strong>
   </h1>
