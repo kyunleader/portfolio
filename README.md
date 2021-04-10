@@ -49,13 +49,9 @@
      ■ 사용 프로그램
 
       ● Python tensorflow, keras, gensim, selenium 등 파이썬 자연어 및 신경망, 크롤링 라이브러리
-
       ● R selenium, ggplot 등 크롤링, 시각화 라이브러리
-
       ● SQL tibero
-
       ● Qgis
-
       ● 각종 OA 프로그램
 
   
