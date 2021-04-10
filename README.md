@@ -33,7 +33,8 @@
      ■ 주요업무 
 
       ● 자연어 처리 프로젝트
-       - python tensorflow를 이용한 고용 뉴스 관련 분류 및 긍·부정 분류 작업 참여 (전처리 및 프로토타입 개발)
+       - python tensorflow를 이용한 고용 뉴스 관련 분류 및 긍·부정 분류 작업 참여
+        (전처리 및 프로토타입 개발)
        - 고용 관련뉴스를 토픽모델링 하여 고용 변화 탐지 작업
        - 통계용어 표준화를 위한 데이터 EDA
 
@@ -47,7 +48,8 @@
       ● 통계청 뉴스기반통계검색서비스 외부 서비스 실시 (2020.10.~)
 
      ■ 사용 프로그램
-      ● Python tensorflow, keras, gensim, selenium 등 파이썬 자연어 및 신경망, 크롤링 라이브러리
+      ● Python tensorflow, keras, gensim, selenium 등 
+        파이썬 자연어 및 신경망, 크롤링 라이브러리
       ● R selenium, ggplot 등 크롤링, 시각화 라이브러리
       ● SQL tibero
       ● Qgis
@@ -66,7 +68,7 @@
   <h2>
   Experiences
   </h2>
-  
+  <!-- repositories 에서 프로젝트 하나씩 올린다음 여기에 추가 하기 -->
   
   
   
