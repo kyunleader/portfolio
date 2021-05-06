@@ -30,7 +30,7 @@
     ■ 총 경력 
       ● 2020.03.02. ~ 2020.12.31.(10개월)
 
-     ■ 주요업무 
+    ■ 주요업무 
 
       ● 자연어 처리 프로젝트
        - python tensorflow를 이용한 고용 뉴스 관련 분류 및 긍·부정 분류 작업 참여
@@ -43,11 +43,11 @@
        - 통계청 뉴스기반 통계 검색 서비스 수정 및 보완, 서비스 유지관리 작업
        - 서울 1인 가구 통계 작성을 위한 지도 시각화
 
-     ■ 주요성과 
+    ■ 주요성과 
       ● 네이버 쇼핑 데이터 수집 보조 프로그램 개발
       ● 통계청 뉴스기반통계검색서비스 외부 서비스 실시 (2020.10.~)
 
-     ■ 사용 프로그램
+    ■ 사용 프로그램
       ● Python tensorflow, keras, gensim, selenium 등 
         파이썬 자연어 및 신경망, 크롤링 라이브러리
       ● R selenium, ggplot 등 크롤링, 시각화 라이브러리
@@ -65,11 +65,52 @@
   
   <!-- spss, sas Mini tab 에서 무엇을 학습 했었는지 적기 -->
   
+
+  
+  <h2>
+  Certificate
+  </h2>
+      <ul>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">자격증명</th>
+    <th class="tg-0lax">취득기관</th>
+    <th class="tg-0lax">취득일</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">컴퓨터 활용능력 1급</td>
+    <td class="tg-0lax">대한상공회의소</td>
+    <td class="tg-0lax">2019-10-18</td>
+
+  </tr>
+  <tr>
+    <td class="tg-0lax">사회조사분석사 2급</td>
+    <td class="tg-0lax">산업인력공단</td>
+    <td class="tg-0lax">2019-11-22</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SQL Developer (SQLD)</td>
+    <td class="tg-0lax">한국데이터산업진흥원</td>
+    <td class="tg-0lax">2020-06-30</td>
+  </tr>
+</tbody>
+</table>
+  </ul>
+  
+  
   <h2>
   Experiences
   </h2>
+  <ul>
+   <li> 응용통계학과 조사연구 경진대회 : K-means Cluster 분석을 통한 가천대학교 학생의 소비성향 파악
+    <ul>
+      <li> 사용한 언어 : python /  R </li>
+      <li> 주요 분석 메서드 : EDA, PCA, K-means Cluster, One-way Anova, Chi-squared test </li>
+      <li> 주요 시각화 메서드 : histogram, 3d scatter plot, pie plot, scree plot(PCA) </li>
+     </ul>
   <!-- repositories 에서 프로젝트 하나씩 올린다음 여기에 추가 하기 -->
-  
-  
   
   
