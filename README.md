@@ -102,15 +102,28 @@
   
   
   <h2>
-  Experiences
+  Project
   </h2>
   <ul>
-   <li> 응용통계학과 조사연구 경진대회 : K-means Cluster 분석을 통한 가천대학교 학생의 소비성향 파악
+  <li> <code>2018</code> 응용통계학과 조사연구 경진대회 : <a href = "https://github.com/kyunleader/Applied_statistics_Research_Competition"> K-means Cluster 분석을 통한 가천대학교 학생의 소비성향 파악 </a>
     <ul>
       <li> 사용한 언어 : python /  R </li>
       <li> 주요 분석 메서드 : EDA, PCA, K-means Cluster, One-way Anova, Chi-squared test </li>
       <li> 주요 시각화 메서드 : histogram, 3d scatter plot, pie plot, scree plot(PCA) </li>
-     </ul>
+     </ul></ul>
   <!-- repositories 에서 프로젝트 하나씩 올린다음 여기에 추가 하기 -->
-  
+    <ul>
+      <li> <code>2019</code> 기상청 날씨 빅데이터 콘테스트 : <a href = "https://github.com/kyunleader/2019-bigdata-weather-contest"> 기상자료와 의학자료를 이용한 천식 악화 방지 </a>
+    <ul>
+      <li> 사용한 언어 : python /  R </li>
+      <li> 주요 분석 메서드 : EDA, PCA, Multiple Regression, Logistic Regression, Seasonal ARIMA, Random Forest, Support Vector Machine, Chi-squared test, T-test </li>
+      <li> 주요 시각화 메서드 : corr plot, 3d scatter plot, pie plot, scree plot(PCA), ROC Curve </li>
+     </ul></ul>
+         <ul>
+      <li> <code>2020</code> 통계데이터 분석 활용 대회 보고서 부문 : <a href = "https://github.com/kyunleader/2020-Statistics-Korea-Statistical-Analysis-Contest"> 토픽모델링을 이용한 코로나 이후 근로형태 변화 탐색 및 고용통계 개선 검토 </a>
+    <ul>
+      <li> 사용한 언어 : python /  R </li>
+      <li> 주요 분석 메서드 : Customized Konlpy, Word2vec, Topic modeling </li>
+      <li> 주요 시각화 메서드 : bar plot, scatter plot 등 기본적인 그래프 </li>
+     </ul></ul>
   
