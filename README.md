@@ -132,6 +132,11 @@
     <td class="tg-0lax">한국데이터산업진흥원</td>
     <td class="tg-0lax">2020-06-30</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">데이터분석 준전문가</td>
+    <td class="tg-0lax">한국데이터산업진흥원</td>
+    <td class="tg-0lax">2021-06-18</td>
+  </tr>
 </tbody>
 </table>
   </ul>
