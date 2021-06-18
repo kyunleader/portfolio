@@ -49,8 +49,10 @@
       ● 통계청 뉴스기반통계검색서비스 외부 서비스 실시 (2020.10.~)
 
     ■ 사용 프로그램
-      ● Python tensorflow, keras, gensim, selenium 등 
-        파이썬 자연어 및 신경망, 크롤링 라이브러리
+      ● Python 
+       - tensorflow 및 keras (신경망 및 머신러닝을 통한 예측과 분류)
+       - gensim (토픽모델링, 비정형 데이터 분석)
+       - selenium, beautifulsoup (크롤링, 데이터 수집 자동화)
       ● R selenium, ggplot 등 크롤링, 시각화 라이브러리
       ● SQL tibero
       ● Qgis
@@ -68,6 +70,12 @@
       ● 매핑
        - opencv를 통한 이미지 매칭을 이용, 포스터의 유사도를 비교하여 매칭
   
+    ■ 사용 프로그램
+      ● Python
+       - openCV (이미지 유사도, 이미지 매칭)
+       - selenium, beautifulsoup, instaloader (크롤링, 데이터 수집 자동화)
+      ● SQL (sequel pro)
+       - 데이터 업데이트 및 테이블 생성, 관리
   
   <li>
   <strong>대구일과학고등학교 데이터 리터러시 모델학교 초빙 강사 </strong></li>
