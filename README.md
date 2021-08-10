@@ -77,7 +77,8 @@
        - openCV (이미지 유사도, 이미지 매칭)
        - selenium, beautifulsoup, instaloader (크롤링, 데이터 수집 자동화)
       ● SQL (sequel pro)
-       - 데이터 업데이트 및 테이블 생성, 관리
+       - 테이블 데이터 조회 및 업데이트
+       - 테이블 생성, 관리
   
   <li>
   <strong>대구일과학고등학교 데이터 리터러시 모델학교 초빙 강사 </strong></li>
