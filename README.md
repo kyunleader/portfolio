@@ -3,6 +3,7 @@
 
 
 
+
 <h1>
   <strong>김기현의 Portfolio</strong>
   </h1>
@@ -169,10 +170,11 @@
       <li> 사용한 언어 : python /  R </li>
       <li> 주요 분석 메서드 : Customized Konlpy, Word2vec, Topic modeling </li>
       <li> 주요 시각화 메서드 : bar plot, scatter plot 등 기본적인 그래프 </li>
-     </ul></ul>
+        </ul></ul>
   
+  
+ 
   
 
-  
   
   
