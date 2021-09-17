@@ -172,8 +172,5 @@
       <li> 주요 시각화 메서드 : bar plot, scatter plot 등 기본적인 그래프 </li>
         </ul></ul>
   
-  
  
-  
-
   
