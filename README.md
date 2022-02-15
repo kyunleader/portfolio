@@ -101,7 +101,7 @@
   skills
   </h2>
   <p>
-  python, R, SQL tibero, Qgis, SPSS, SAS, Mini Tab </p>
+  python, R, SQL tibero, Qgis, SPSS, SAS, Minitab </p>
   
   <!-- spss, sas Mini tab 에서 무엇을 학습 했었는지 적기 -->
   
